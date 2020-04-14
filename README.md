@@ -10,10 +10,11 @@ original => https://github.com/Litchiware/cwru
 Usage
 ---------
 
-.. code-block:: python
+```code-block:: python
 
   import cwru_py3 as cwru
   data = cwru.CWRU("12DriveEndFault", "1797", 384)
+```
 
 Then, you can use ``data.X_train``, ``data.y_train``, ``data.X_test``, ``data.y_test``, ``data.labels``, ``data.nclasses`` to train and evaluate your data driven fault diagnostic algrithms.
 
@@ -34,7 +35,7 @@ Install
 
 Install by pip:
 
-  $ pip install --user cwru_py3
+  $ pip install cwru_py3
 
 Or install manually:
 
