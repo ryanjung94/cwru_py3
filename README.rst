@@ -2,13 +2,13 @@ Case Western Reserve University Bearing Data
 ============================================
 
 Notice
------
+---------
 
 This repository only modified the code so that the repository below can be used in Python3.  
 original => https://github.com/Litchiware/cwru  
 
 Usage
------
+---------
 
 .. code-block:: python
 
