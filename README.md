@@ -10,8 +10,7 @@ original => https://github.com/Litchiware/cwru
 Usage
 ---------
 
-```code-block:: python
-
+```python
   import cwru_py3 as cwru
   data = cwru.CWRU("12DriveEndFault", "1797", 384)
 ```
