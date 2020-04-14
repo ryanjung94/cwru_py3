@@ -1,4 +1,5 @@
-Collect Case Western Reserve University Bearing Data in Python3
+Collect Case Western Reserve University Bearing Data  
+In Python3
 ============================================
 
 Notice
