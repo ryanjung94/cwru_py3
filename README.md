@@ -34,13 +34,13 @@ Install
 -------
 
 Install by pip:
-
+```terminal
   $ pip install cwru_py3
-
+```
 Or install manually:
-
+```terminal
   $ python setup.py install
-
+```
 Test
 ----
 
